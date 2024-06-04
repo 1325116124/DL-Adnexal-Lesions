@@ -1,0 +1,6 @@
+__pycache__/
+archs/
+checkpoint/
+temporal-shift-module/
+txt/
+vision/
